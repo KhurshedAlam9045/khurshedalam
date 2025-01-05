@@ -134,7 +134,7 @@ a{
 .header{
     height: 34vw;
     margin-left: 10%;
-    background-image: url('image/header_img.png');
+    background-image: url('header_img.png');
     background-repeat: no-repeat;
     background-size: contain;
     position: relative;
